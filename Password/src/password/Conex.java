@@ -31,7 +31,7 @@ conexion=DriverManager.getConnection(URL_BASEDATOS,"root","");
 if(conexion!= null){
 
      JOptionPane.showMessageDialog(null,"conexion exitosa");
-     
+     s
 
 
 }
@@ -59,3 +59,5 @@ if(conexion!= null){
 }
     }
 }
+
+//Puto el que lo lea
